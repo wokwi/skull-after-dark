@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name skull-after-dark-rescue)(type Legacy)(uri ${KIPRJMOD}/skull-after-dark-rescue.lib)(options "")(descr ""))
+)
